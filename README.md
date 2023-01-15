@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mintu Sharma
 - 👀 I’m interested in 👨‍💻
-- 🌱 I’m currently enhancing C++ and DSA
+- 🌱 I’m currently enhancing C++ and DSA along with Web development
 - 💞️ I’m looking to collaborate on any project in C++ or any Frontend Devlopment
 - 📫 How to reach me mks42814@gmail.com
 
