@@ -1,7 +1,7 @@
 
 # Hi there, I'm Mintu Sharma!👋
 
-## I'm a Student, Undergraudate and Developer
+## I'm a Student, Undergraduate and Developer
 
 👩‍💻 I'm currently working on my Portfolio Website
 
